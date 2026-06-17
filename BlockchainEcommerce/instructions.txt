@@ -1,0 +1,9 @@
+first install node-v12 software available in this folder
+then install below packages
+
+pip install web3==4.7.2
+pip install Django==2.1.7
+
+After above steps and now follow screen shots to run code
+
+code and run.bat file available inside BlockchainEcommerce folder
