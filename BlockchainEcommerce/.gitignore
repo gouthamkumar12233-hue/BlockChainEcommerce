@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Build folders
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
